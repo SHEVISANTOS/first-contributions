@@ -2,15 +2,15 @@
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+# Michango ya Kwanza
 
+Mradi huu unalenga kusanya na kuongoza namna wanaojifunza wafanye michango yao ya kwanza. Ikiwa unatafuta kufanya michango yako ya kwanza, fuata hatua zifuatazo.
 
-# Mchango wa Kwanza
+…
+Fungua terminal na uendeshe amri ifuatayo ya git:
 
-Ni vigumu. Mara zote ni vigumu kufanya kitu kwa mara ya kwanza. Hasa kama unashirikiana na wengine, kufanya makosa sio jambo la kushangaza. Tulitaka kurahisisha namna ambavyo wachangiaji wapya wa mifumo ya wazi wanavyojifunza na kuchangia kwa mara ya kwanza.
-
-Kusoma makala na kuangalia mafunzo ya video yaweza kusaidia, lakini ni jambo lipi bora zaidi kuliko kufanya kwa vitendo katika mazingira ya kujifunzia? Mradi huu unalenga kutoa mwongozo na kurahisisha namna ambavyo wachangiaji wapya wanavyoweza kuchangia kwa mara ya kwanza. Ikiwa unataka kuchangia kwa mara ya kwanza , fuata hatua zifuatazo.
-
-#### *Kama haujazoea kutumia 'command line', [waweza kutumia GUI.](#Makala ya namna ya kutumia nyenzo nyingine)*
+```bash
+git clone "url uliyonakili"
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fanya fork ya hazina hii" />
 
