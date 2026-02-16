@@ -19,6 +19,7 @@
 <kbd>[<img title="Dezéiriya" alt="Dezéiriya" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/dz.svg" width="22">](docs/translations/README.dz.md)</kbd>
 <kbd>[<img title="Español de España" alt="Español de España" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/es.svg" width="22">](docs/translations/README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg" width="22">](docs/translations/README.fr.md)</kbd>
+
 <kbd>[<img title="Gaeilge" alt="Gaeilge" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ie.svg" width="22">](docs/translations/README.ga.md)</kbd>
 <kbd>[<img title="Galego" alt="Galego" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/1200px-Flag_of_Galicia.svg.png" width="22">](docs/translations/README.gl.md)</kbd>
 <kbd>[<img title="Ελληνικά" alt="Ελληνικά" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gr.svg" width="22">](docs/translations/README.gr.md)</kbd>
